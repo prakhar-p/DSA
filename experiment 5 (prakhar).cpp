@@ -1,8 +1,8 @@
 //Done By PRAKHAR  196032
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
-int queue[100], n = 100, front = - 1, rear = - 1;
+int queue[n], n = 100, front = - 1, rear = - 1;
 void Insert() {
    int val;
    if (rear == n - 1)
