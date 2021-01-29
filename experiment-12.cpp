@@ -1,8 +1,7 @@
-#include<stdio.h>
 //Done by Prakhar 196032
-
+#include<stdio.h>
 #include<conio.h>
-#include<math.h>
+
 void selection_sort(int arr[],int n){
 	for(int i=0;i<n;){
 		int min=arr[i];
