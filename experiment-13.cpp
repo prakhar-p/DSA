@@ -1,5 +1,5 @@
 //done by prakhar 196032
-
+//INSERTION SORT
 #include<stdio.h>
 #include<conio.h>
 int main(){
